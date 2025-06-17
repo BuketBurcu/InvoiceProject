@@ -1,0 +1,12 @@
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\bin\Debug\net8.0\InvoiceApi.Mailing.deps.json
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\bin\Debug\net8.0\InvoiceApi.Mailing.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\bin\Debug\net8.0\InvoiceApi.Mailing.pdb
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\InvoiceApi.Mailing.csproj.AssemblyReference.cache
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\InvoiceApi.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\InvoiceApi.Mailing.AssemblyInfoInputs.cache
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\InvoiceApi.Mailing.AssemblyInfo.cs
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\InvoiceApi.Mailing.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\InvoiceApi.Mailing.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\refint\InvoiceApi.Mailing.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\InvoiceApi.Mailing.pdb
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Mailing\obj\Debug\net8.0\ref\InvoiceApi.Mailing.dll

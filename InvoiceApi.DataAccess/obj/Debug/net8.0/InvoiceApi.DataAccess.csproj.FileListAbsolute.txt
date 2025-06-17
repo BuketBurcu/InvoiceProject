@@ -1,0 +1,17 @@
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceApi.DataAccess.AssemblyInfo.cs
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\bin\Debug\net8.0\InvoiceApi.DataAccess.deps.json
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\bin\Debug\net8.0\InvoiceApi.DataAccess.runtimeconfig.json
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\bin\Debug\net8.0\InvoiceApi.DataAccess.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\bin\Debug\net8.0\InvoiceApi.DataAccess.pdb
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\bin\Debug\net8.0\InvoiceApi.Data.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\bin\Debug\net8.0\InvoiceApi.Data.pdb
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceA.0B108CCC.Up2Date
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceApi.DataAccess.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\refint\InvoiceApi.DataAccess.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceApi.DataAccess.pdb
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\InvoiceApi.DataAccess.genruntimeconfig.cache
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.DataAccess\obj\Debug\net8.0\ref\InvoiceApi.DataAccess.dll

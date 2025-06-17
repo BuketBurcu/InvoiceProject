@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1533756-97FA-4D3C-9735-ABFAFAEC87AA}|InvoiceApi\\InvoiceApi.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1533756-97FA-4D3C-9735-ABFAFAEC87AA}|InvoiceApi\\InvoiceApi.csproj|solutionrelative:invoiceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71C70A6-4B72-46C9-BE5E-A57DBD543709}|InvoiceApi.Core\\InvoiceApi.Core.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.core\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71C70A6-4B72-46C9-BE5E-A57DBD543709}|InvoiceApi.Core\\InvoiceApi.Core.csproj|solutionrelative:invoiceapi.core\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1533756-97FA-4D3C-9735-ABFAFAEC87AA}|InvoiceApi\\InvoiceApi.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1533756-97FA-4D3C-9735-ABFAFAEC87AA}|InvoiceApi\\InvoiceApi.csproj|solutionrelative:invoiceapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBC2CEB-66DD-42C4-9FFF-3D5970534350}|InvoiceApi.DataAccess\\InvoiceApi.DataAccess.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBC2CEB-66DD-42C4-9FFF-3D5970534350}|InvoiceApi.DataAccess\\InvoiceApi.DataAccess.csproj|solutionrelative:invoiceapi.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48BDD89-08A5-4DB3-836C-92A026C7F398}|InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.mailing\\invoiceapi.mailing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C48BDD89-08A5-4DB3-836C-92A026C7F398}|InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj|solutionrelative:invoiceapi.mailing\\invoiceapi.mailing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48BDD89-08A5-4DB3-836C-92A026C7F398}|InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.mailing\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48BDD89-08A5-4DB3-836C-92A026C7F398}|InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj|solutionrelative:invoiceapi.mailing\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E54FDD-DA26-4C94-986C-10C84A665085}|InvoiceApi.Jobs\\InvoiceApi.Jobs.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.jobs\\mailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E54FDD-DA26-4C94-986C-10C84A665085}|InvoiceApi.Jobs\\InvoiceApi.Jobs.csproj|solutionrelative:invoiceapi.jobs\\mailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48BDD89-08A5-4DB3-836C-92A026C7F398}|InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.mailing\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48BDD89-08A5-4DB3-836C-92A026C7F398}|InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj|solutionrelative:invoiceapi.mailing\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48BDD89-08A5-4DB3-836C-92A026C7F398}|InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.mailing\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48BDD89-08A5-4DB3-836C-92A026C7F398}|InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj|solutionrelative:invoiceapi.mailing\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E54FDD-DA26-4C94-986C-10C84A665085}|InvoiceApi.Jobs\\InvoiceApi.Jobs.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.jobs\\helpers\\mailcontentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E54FDD-DA26-4C94-986C-10C84A665085}|InvoiceApi.Jobs\\InvoiceApi.Jobs.csproj|solutionrelative:invoiceapi.jobs\\helpers\\mailcontentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBC2CEB-66DD-42C4-9FFF-3D5970534350}|InvoiceApi.DataAccess\\InvoiceApi.DataAccess.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBC2CEB-66DD-42C4-9FFF-3D5970534350}|InvoiceApi.DataAccess\\InvoiceApi.DataAccess.csproj|solutionrelative:invoiceapi.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36058744-D0CF-4E72-B9D9-6CCEEEBBB0C2}|InvoiceApi.Data\\InvoiceApi.Data.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.data\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36058744-D0CF-4E72-B9D9-6CCEEEBBB0C2}|InvoiceApi.Data\\InvoiceApi.Data.csproj|solutionrelative:invoiceapi.data\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36058744-D0CF-4E72-B9D9-6CCEEEBBB0C2}|InvoiceApi.Data\\InvoiceApi.Data.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.data\\dtos\\invoicelinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36058744-D0CF-4E72-B9D9-6CCEEEBBB0C2}|InvoiceApi.Data\\InvoiceApi.Data.csproj|solutionrelative:invoiceapi.data\\dtos\\invoicelinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36058744-D0CF-4E72-B9D9-6CCEEEBBB0C2}|InvoiceApi.Data\\InvoiceApi.Data.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.data\\dtos\\invoiceheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36058744-D0CF-4E72-B9D9-6CCEEEBBB0C2}|InvoiceApi.Data\\InvoiceApi.Data.csproj|solutionrelative:invoiceapi.data\\dtos\\invoiceheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71C70A6-4B72-46C9-BE5E-A57DBD543709}|InvoiceApi.Core\\InvoiceApi.Core.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi.core\\services\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71C70A6-4B72-46C9-BE5E-A57DBD543709}|InvoiceApi.Core\\InvoiceApi.Core.csproj|solutionrelative:invoiceapi.core\\services\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1533756-97FA-4D3C-9735-ABFAFAEC87AA}|InvoiceApi\\InvoiceApi.csproj|c:\\users\\buket\\source\\repos\\invoiceapi\\invoiceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1533756-97FA-4D3C-9735-ABFAFAEC87AA}|InvoiceApi\\InvoiceApi.csproj|solutionrelative:invoiceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "InvoiceApi\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "InvoiceApi\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:36:12.019Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi\\Program.cs",
+              "RelativeDocumentMoniker": "InvoiceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi\\Program.cs",
+              "RelativeToolTip": "InvoiceApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:59:50.855Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MailJob.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Jobs\\MailJob.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Jobs\\MailJob.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Jobs\\MailJob.cs",
+              "RelativeToolTip": "InvoiceApi.Jobs\\MailJob.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:00:06.903Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Mailing\\MailSettings.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Mailing\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Mailing\\MailSettings.cs",
+              "RelativeToolTip": "InvoiceApi.Mailing\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:07:33.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceApi.Mailing",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj",
+              "RelativeDocumentMoniker": "InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj",
+              "RelativeToolTip": "InvoiceApi.Mailing\\InvoiceApi.Mailing.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T17:07:07.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "InvoiceApi.DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:21:22.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Core\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Core\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Core\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "InvoiceApi.Core\\Services\\InvoiceService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:29:01.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Mailing\\IMailService.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Mailing\\IMailService.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Mailing\\IMailService.cs",
+              "RelativeToolTip": "InvoiceApi.Mailing\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:07:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Mailing\\MailService.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Mailing\\MailService.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Mailing\\MailService.cs",
+              "RelativeToolTip": "InvoiceApi.Mailing\\MailService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:28:04.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.DataAccess\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "InvoiceApi.DataAccess\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:06:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MailContentBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Jobs\\Helpers\\MailContentBuilder.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Jobs\\Helpers\\MailContentBuilder.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Jobs\\Helpers\\MailContentBuilder.cs",
+              "RelativeToolTip": "InvoiceApi.Jobs\\Helpers\\MailContentBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:32:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Data\\Dtos\\InvoiceDto.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Data\\Dtos\\InvoiceDto.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Data\\Dtos\\InvoiceDto.cs",
+              "RelativeToolTip": "InvoiceApi.Data\\Dtos\\InvoiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:06:08.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceLineDto.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Data\\Dtos\\InvoiceLineDto.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Data\\Dtos\\InvoiceLineDto.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Data\\Dtos\\InvoiceLineDto.cs",
+              "RelativeToolTip": "InvoiceApi.Data\\Dtos\\InvoiceLineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:06:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Data\\Dtos\\InvoiceHeaderDto.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Data\\Dtos\\InvoiceHeaderDto.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Data\\Dtos\\InvoiceHeaderDto.cs",
+              "RelativeToolTip": "InvoiceApi.Data\\Dtos\\InvoiceHeaderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:06:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Core\\Services\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "InvoiceApi.Core\\Services\\IInvoiceService.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi.Core\\Services\\IInvoiceService.cs",
+              "RelativeToolTip": "InvoiceApi.Core\\Services\\IInvoiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:03:51.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "InvoiceApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\InvoiceApi\\InvoiceApi\\appsettings.json",
+              "RelativeToolTip": "InvoiceApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T16:57:12.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
