@@ -17,7 +17,7 @@ namespace InvoiceApi.Jobs
             _logger = logger;
         }
         public MailJob(IServiceScopeFactory scopeFactory, ILogger<MailJob> logger)
-        {
+         {
             _scopeFactory = scopeFactory;
             _logger = logger;
         }
@@ -50,7 +50,7 @@ namespace InvoiceApi.Jobs
                         await invoiceService.MarkInvoiceAsProcessed(invoice.InvoiceId);
                     }
 
-                    await Task.Delay(TimeSpan.FromMinutes(1), stoppingToken);
+                    await Task.Delay(TimeSpan.FromMinutes(10), stoppingToken);
                 }
 
             }

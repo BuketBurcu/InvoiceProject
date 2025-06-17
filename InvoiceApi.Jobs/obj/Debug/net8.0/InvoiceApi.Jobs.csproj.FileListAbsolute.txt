@@ -19,3 +19,4 @@ C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Jobs\obj\Debug\net8.0\InvoiceA
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Jobs\obj\Debug\net8.0\refint\InvoiceApi.Jobs.dll
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Jobs\obj\Debug\net8.0\InvoiceApi.Jobs.pdb
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Jobs\obj\Debug\net8.0\ref\InvoiceApi.Jobs.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Jobs\obj\Debug\net8.0\InvoiceApi.Jobs.sourcelink.json

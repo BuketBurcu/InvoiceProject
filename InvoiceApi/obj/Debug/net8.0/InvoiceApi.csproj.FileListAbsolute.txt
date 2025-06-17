@@ -175,3 +175,4 @@ C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi\obj\Debug\net8.0\InvoiceApi.Mv
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi\obj\Debug\net8.0\InvoiceApi.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Core\obj\Debug\net8.0\InvoiceA
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Core\obj\Debug\net8.0\refint\InvoiceApi.Core.dll
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Core\obj\Debug\net8.0\InvoiceApi.Core.pdb
 C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Core\obj\Debug\net8.0\ref\InvoiceApi.Core.dll
+C:\Users\BUKET\source\repos\InvoiceApi\InvoiceApi.Core\obj\Debug\net8.0\InvoiceApi.Core.sourcelink.json
